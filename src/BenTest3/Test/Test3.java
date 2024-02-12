@@ -1,0 +1,14 @@
+package BenTest3.Test;
+
+public class Test3 {
+    public void foo(){
+        assert false;
+        assert false;
+    }
+    public void bar(){
+        while(true){
+            assert false;
+        }
+        assert false;
+    }
+}

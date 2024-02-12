@@ -1,0 +1,202 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Test3",
+            "request": "launch",
+            "mainClass": "BenTest10.Test.Test3",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "Test2",
+            "request": "launch",
+            "mainClass": "BenTest10.Test.Test2",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "Test1",
+            "request": "launch",
+            "mainClass": "BenTest10.Test.Test1",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "TreeSet3",
+            "request": "launch",
+            "mainClass": "BenTest10.TreeSet.TreeSet3",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "Sub",
+            "request": "launch",
+            "mainClass": "BenTest10.TreeSet.Sub",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "TreeSet1",
+            "request": "launch",
+            "mainClass": "BenTest10.TreeSet.TreeSet1",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "Q207_Repeated",
+            "request": "launch",
+            "mainClass": "BenTest9.StringRef.Q207_Repeated",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "StringRef",
+            "request": "launch",
+            "mainClass": "BenTest9.StringRef.StringRef",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "ArrayTest",
+            "request": "launch",
+            "mainClass": "BenTest3.ArrayTest.ArrayTest",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "Runnable",
+            "request": "launch",
+            "mainClass": "Runnable.Runnable",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "part_a",
+            "request": "launch",
+            "mainClass": "CompilerError.part_a",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "f1",
+            "request": "launch",
+            "mainClass": "FloatDeclare.f1",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "f2",
+            "request": "launch",
+            "mainClass": "FloatDeclare.f2",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "f3",
+            "request": "launch",
+            "mainClass": "FloatDeclare.f3",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "f4",
+            "request": "launch",
+            "mainClass": "FloatDeclare.f4",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "f5",
+            "request": "launch",
+            "mainClass": "FloatDeclare.f5",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "f6",
+            "request": "launch",
+            "mainClass": "FloatDeclare.f6",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "Abstract",
+            "request": "launch",
+            "mainClass": "Foo.Abstract",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Foo.Main",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "Protected",
+            "request": "launch",
+            "mainClass": "Foo.Protected",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "Public",
+            "request": "launch",
+            "mainClass": "Foo.Public",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "Volatile",
+            "request": "launch",
+            "mainClass": "Foo.Volatile",
+            "projectName": "Java Programs_4e0c2f79"
+        },
+        {
+            "type": "java",
+            "name": "X",
+            "request": "launch",
+            "mainClass": "X.X",
+            "projectName": "Java Programs_4e0c2f79"
+        }
+    ]
+}
