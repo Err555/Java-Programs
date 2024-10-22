@@ -37,7 +37,7 @@ The `JAVA PROJECTS` view allows you to manage your dependencies. More details ca
 1. Clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/Gabby1024/Java-Programs.git
+git clone https://github.com/Err555/Java-Programs.git
 ```
 
 ## Contributing
